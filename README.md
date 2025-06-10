@@ -53,13 +53,11 @@ Após a compilação bem-sucedida, você pode executar o jogo:
 java -cp src Program
 ```
 
-*Nota:* Substitua `Program` pelo nome da sua classe principal, se for diferente.
-
 ## Funcionalidades
 
 -   Implementação das regras básicas do xadrez.
 -   Movimentação de peças.
--   Verificação de xeque e xeque-mate.
+-   Verificação de xeque e xeque-mate (a ser confirmado/implementado).
 
 ## Tecnologias Utilizadas
 
@@ -70,8 +68,8 @@ java -cp src Program
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhoria ou quiser adicionar novas funcionalidades, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
-Licença
+## Licença
 
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes. (Se aplicável, caso contrário, remova esta seção ou adapte-a).
 
 
