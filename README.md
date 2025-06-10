@@ -59,8 +59,7 @@ java -cp src Program
 
 -   Implementação das regras básicas do xadrez.
 -   Movimentação de peças.
--   Verificação de xeque e xeque-mate (a ser confirmado/implementado).
--   Interface de linha de comando para interação com o jogo.
+-   Verificação de xeque e xeque-mate.
 
 ## Tecnologias Utilizadas
 
