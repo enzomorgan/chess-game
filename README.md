@@ -69,3 +69,9 @@ java -cp src Program
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões de melhoria ou quiser adicionar novas funcionalidades, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
+
+Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+
